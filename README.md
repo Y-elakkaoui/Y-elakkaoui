@@ -33,12 +33,13 @@ Motivated and technically interested career starter with practical experience in
 - **Goethe-Zertifikat B1** (2026) - German language
 - **Junior Penetration Tester** (TryHackMe Online Certification, 2026)
 - **Google IT Support Professional Certificate** (Coursera, 2025)
-- **Staatlich geprüfter Techniker für Cybersicherheit** (2023-2026)
 - **Weiterbildung in Cybersicherheit** (ENSIT, 2025-2026)
+- **Staatlich geprüfter Techniker für Cybersicherheit** (2023-2026)
+
 
 ## 🌍 Languages
 
-- 🇩🇪 German (B1)
+- 🇩🇪 German 
 - 🇬🇧 English
 - 🇫🇷 French
 - 🇦🇪 Arabic
@@ -47,7 +48,7 @@ Motivated and technically interested career starter with practical experience in
 
 - 📧 Email: younesselakkaoui2@gmail.com
 - 📱 Phone: +212698626603
-- 📍 Location: Currently in Morocco, relocating to Germany for Ausbildung
+- 📍 Location: Currently in Morocco
 
 ## 🎯 Interests
 
