@@ -56,6 +56,4 @@ Motivated and technically interested career starter with practical experience in
 - Video games (logical thinking and problem-solving)
 - Surfing (balance and endurance)
 
----
 
-💡 *Open to opportunities in Germany for Ausbildung starting 2026. Feel free to reach out!*
