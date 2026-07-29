@@ -80,7 +80,7 @@ I have built and documented several hands-on cybersecurity labs and IT projects.
 
 - 📧 Email: younesselakkaouics@gmail.com
 - 📱 Phone: +212 698 626 603
-- 💼 LinkedIn: [Your-LinkedIn-Link](www.linkedin.com/in/younesse-el-akkaoui-502486380)
+- 💼 LinkedIn: [Younesse El Akkaoui](https://www.linkedin.com/in/younesse-el-akkaoui-502486380)
 
 ---
 
