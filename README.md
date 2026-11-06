@@ -16,6 +16,7 @@ IT-Supporter mit Praxis im 1st-Level-Support und einem Diplom in digitaler Infra
 | [Enterprise-MultiSite-VLAN-OSPF](https://github.com/Y-elakkaoui/Enterprise-MultiSite-VLAN-OSPF) | Standortnetz in GNS3 mit VLANs, Router-on-a-Stick und OSPF |
 | [pfsense-virtual-security-lab](https://github.com/Y-elakkaoui/pfsense-virtual-security-lab) | Firewall-Lab mit pfSense, Ubuntu und Kali in VMware |
 | [network-scanner-lab](https://github.com/Y-elakkaoui/network-scanner-lab) | Scan, Härtung und Re-Scan eines Ubuntu-Webservers |
+| [home-soc-lab](https://github.com/Y-elakkaoui/home-soc-lab) | SOC-Lab mit Wazuh: simulierter SSH-Angriff, sechs eigene Erkennungsregeln nach MITRE ATT&CK, Incident-Report |
 
 ---
 
@@ -23,9 +24,9 @@ IT-Supporter mit Praxis im 1st-Level-Support und einem Diplom in digitaler Infra
 
 - **Betriebssysteme:** Windows 10/11, Windows Server, Linux (Ubuntu, Debian, Kali)
 - **Netzwerke:** TCP/IP, DNS, DHCP, Routing, VLAN, OSPF, SNMP-Monitoring
-- **Sicherheit:** VPN, Firewalls, IDS/IPS, pfSense, UFW, Nmap, Nikto, Gobuster
+- **Sicherheit:** VPN, Firewalls, IDS/IPS, pfSense, UFW, Nmap, Nikto, Gobuster, Wazuh (SIEM), MITRE ATT&CK
 - **IT-Service-Management:** ServiceNow, Incident Management (ITIL), 1st-Level-Support, Remote-Support
-- **Virtualisierung:** VMware Workstation, VirtualBox, GNS3
+- **Virtualisierung:** VMware Workstation, VirtualBox, GNS3, Docker
 - **Automatisierung und KI:** Python, Bash, Claude, Claude Code, ChatGPT
 
 ---
